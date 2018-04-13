@@ -36,11 +36,13 @@ We used Jest to test our code. We also set up a continuous integration server us
 
 ## The team
 
-* Olena: [GitHub](https://github.com/OlenaKashuba) [Linkedin](https://www.linkedin.com/in/olena-kashuba-466052159/)
-* Eugene: [GitHub](https://github.com/yevhensydorov) [Linkedin](https://www.linkedin.com/in/yevhen-sydorov-91a53b4b/)
-* Alex: [GitHub](https://github.com/AlexJRFox)
-* Mathilde: [GitHub](https://github.com/mathildepind)
-* Ania: [GitHub](https://github.com/AniaMakes) [Twitter](https://twitter.com/AniaMakes)
+|   Name   |                                                          Github                                                           |                                             Linkedin                                             |                                   Twitter                                    |
+| :------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  Olena   | [![Foo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/OlenaKashuba)  | [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/olena-kashuba-466052159/) |   [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/olena_k91)   |
+|  Eugene  | [![Foo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/yevhensydorov) | [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/yevhen-sydorov-91a53b4b/) | [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/EugeneSydorov) |
+|   Alex   |   [![Foo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/AlexJRFox)   |   [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/alex-fox-8b5479161/)    |                                                                              |
+| Mathilde | [![Foo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/mathildepind)  |  [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/mathilde-pind-6640615/)  | [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/MathildePind)  |
+|   Ania   |   [![Foo](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/AniaMakes)   |        [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/annabebb/)         |   [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/AniaMakes)   |
 
 ## Try it out!
 

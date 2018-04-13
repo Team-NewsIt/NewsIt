@@ -36,11 +36,13 @@ We used Jest to test our code. We also set up a continuous integration server us
 
 ## The team
 
-* Olena: [GitHub](https://github.com/OlenaKashuba) [Linkedin](https://www.linkedin.com/in/olena-kashuba-466052159/)
-* Eugene: [GitHub](https://github.com/yevhensydorov) [Linkedin](https://www.linkedin.com/in/yevhen-sydorov-91a53b4b/)
-* Alex: [GitHub](https://github.com/AlexJRFox)
-* Mathilde: [GitHub](https://github.com/mathildepind)
-* Ania: [GitHub](https://github.com/AniaMakes) [Twitter](https://twitter.com/AniaMakes)
+|   Name   | Github                                     | Linkedin                                                         | Twitter                                  |
+| :------: | ------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------- |
+|  Olena   | [Github](https://github.com/OlenaKashuba)  | [Linkedin](https://www.linkedin.com/in/olena-kashuba-466052159/) |                                          |
+|  Eugene  | [Github](https://github.com/yevhensydorov) | [Linkedin](https://www.linkedin.com/in/yevhen-sydorov-91a53b4b/) |                                          |
+|   Alex   | [Github](https://github.com/AlexJRFox)     |                                                                  |                                          |
+| Mathilde | [Github](https://github.com/mathildepind)  |                                                                  |                                          |
+|   Ania   | [Github](https://github.com/AniaMakes)     |                                                                  | [Twitter](https://twitter.com/AniaMakes) |
 
 ## Try it out!
 

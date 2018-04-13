@@ -36,13 +36,21 @@ We used Jest to test our code. We also set up a continuous integration server us
 
 ## The team
 
-|   Name   | Github                                     | Linkedin                                                         | Twitter                                  |
+<!-- |   Name   | Github                                     | Linkedin                                                         | Twitter                                  |
 | :------: | ------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------- |
 |  Olena   | [Github](https://github.com/OlenaKashuba)  | [Linkedin](https://www.linkedin.com/in/olena-kashuba-466052159/) |                                          |
 |  Eugene  | [Github](https://github.com/yevhensydorov) | [Linkedin](https://www.linkedin.com/in/yevhen-sydorov-91a53b4b/) |                                          |
 |   Alex   | [Github](https://github.com/AlexJRFox)     |                                                                  |                                          |
 | Mathilde | [Github](https://github.com/mathildepind)  |                                                                  |                                          |
-|   Ania   | [Github](https://github.com/AniaMakes)     |                                                                  | [Twitter](https://twitter.com/AniaMakes) |
+|   Ania   | [Github](https://github.com/AniaMakes)     |                                                                  | [Twitter](https://twitter.com/AniaMakes) | -->
+
+|   Name   |                                   Github                                   |                                             Linkedin                                             |                                   Twitter                                    |
+| :------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  Olena   | [![Foo](https://github.com/favicon.ico)](https://github.com/OlenaKashuba)  | [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/olena-kashuba-466052159/) |   [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/olena_k91)   |
+|  Eugene  | [![Foo](https://github.com/favicon.ico)](https://github.com/yevhensydorov) | [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/yevhen-sydorov-91a53b4b/) | [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/EugeneSydorov) |
+|   Alex   |   [![Foo](https://github.com/favicon.ico)](https://github.com/AlexJRFox)   |   [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/alex-fox-8b5479161/)    |                                                                              |
+| Mathilde | [![Foo](https://github.com/favicon.ico)](https://github.com/mathildepind)  |  [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/mathilde-pind-6640615/)  | [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/MathildePind)  |
+|   Ania   |   [![Foo](https://github.com/favicon.ico)](https://github.com/AniaMakes)   |        [![Foo](https://linkedin.com/favicon.ico)](https://www.linkedin.com/in/annabebb/)         |   [![Foo](https://twitter.com/favicon.ico)](https://twitter.com/AniaMakes)   |
 
 ## Try it out!
 
